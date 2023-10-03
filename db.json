@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "Baju gamis",
+      "price": "15000",
+      "id": 6
+    },
+    {
+      "title": "Baju Gamis",
+      "price": "24000",
+      "id": 7
+    }
+  ]
+}

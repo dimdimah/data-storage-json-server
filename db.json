@@ -9,6 +9,16 @@
       "title": "Baju Gamis",
       "price": "24000",
       "id": 7
+    },
+    {
+      "title": "Korean jeans",
+      "price": "23000",
+      "id": 8
+    },
+    {
+      "title": "Celana Dalam",
+      "price": "15000",
+      "id": 9
     }
   ]
 }
